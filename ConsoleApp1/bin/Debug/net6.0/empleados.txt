@@ -1,0 +1,2 @@
+88,Luis,La caleta,8095235655,22,40000
+2,Pepe,Santo Domingo,231312,30,25000
